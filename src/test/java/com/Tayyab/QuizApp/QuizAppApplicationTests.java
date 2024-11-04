@@ -1,4 +1,4 @@
-package com.telesco.QuizApp;
+package com.Tayyab.QuizApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.telesco.QuizApp.dao;
+package com.Tayyab.QuizApp.dao;
 
-import com.telesco.QuizApp.model.Question;
+import com.Tayyab.QuizApp.model.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

@@ -1,7 +1,7 @@
-package com.telesco.QuizApp.controller;
+package com.Tayyab.QuizApp.controller;
 
-import com.telesco.QuizApp.model.Response;
-import com.telesco.QuizApp.service.QuizService;
+import com.Tayyab.QuizApp.model.Response;
+import com.Tayyab.QuizApp.service.QuizService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

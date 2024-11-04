@@ -1,6 +1,6 @@
-package com.telesco.QuizApp.dao;
+package com.Tayyab.QuizApp.dao;
 
-import com.telesco.QuizApp.model.Quiz;
+import com.Tayyab.QuizApp.model.Quiz;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

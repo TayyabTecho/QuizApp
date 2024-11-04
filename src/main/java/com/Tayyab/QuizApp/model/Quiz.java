@@ -1,4 +1,4 @@
-package com.telesco.QuizApp.model;
+package com.Tayyab.QuizApp.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
